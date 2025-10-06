@@ -1,4 +1,5 @@
-# RootEx 2.0 
+# RootEx 2.0
+
 A compact map of the **RootEx** pipeline, with pointers to the two GitHub repositories, the dataset, and papers.
 
 ```
@@ -17,7 +18,7 @@ A compact map of the **RootEx** pipeline, with pointers to the two GitHub reposi
 
 - **Part 2 — Post-DL (Graph → Paths → RSML):**  
   Skeletonization, graph building/refinement, tip→source path selection, **GT-optional** evaluation, and RSML export.  
-  👉 *This repository* (use this after obtaining the `.pth` from Part 1).
+  👉 https://github.com/MaicholD95/RootEx2.0_GetRsml (use this after obtaining the `.pth` from Part 1).
 
 ---
 
