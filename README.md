@@ -45,8 +45,7 @@ Use the dataset to train Part 1 and to test/evaluate Part 2 (with or without GT)
 
 ## Papers & Citation
 
-- **RootEx 2.0** — *in press at* **Expert Systems with Applications (ESWA)**.  
-  *(Add DOI/BibTeX here when available.)*
+- **RootEx 2.0** — *available at* **Expert Systems with Applications (ESWA)** (https://doi.org/10.1016/j.eswa.2025.129930). 
 
 If you use this pipeline, please cite **RootEx 2.0**. You can also reference the dataset (**TILLMore-CDC**) in your work.
 
